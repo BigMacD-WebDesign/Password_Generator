@@ -1,9 +1,17 @@
-# Password_Generator
-Homework #3
+# About The Author
+# Name: Scott MacDonald
+## Username: BigMacD-WebDesign
+### Location: University of Arizona
+
+First Header | Second Header
+-------------|---------------
+Project      | Password_Generator
+Project URL  | https://github.com/BigMacD-WebDesign/Password_Generator
+Installation | npm install
+License      | ISC
+Test         | npm test
 
 
-Coded the JavaScript.
+![GitHub Logo](https://avatars3.githubusercontent.com/u/60277883?v=4)
 
-Gave the variables of what the password should generate randomly in lines 2-8
-
-Lines 11-36 set up the prompts and confirms in order to proceed and generate a password inside the text box.
+[![GitHub license](https://img.shields.io/badge/license-ISC-blue.svg)](https://github.com/BigMacD-WebDesign/Password_Generator)
